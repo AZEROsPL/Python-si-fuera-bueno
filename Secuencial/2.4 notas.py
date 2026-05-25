@@ -1,0 +1,10 @@
+print ("Ingrese la nota 1:")
+nota1 = float(input())
+print ("Ingrese la nota 2:")
+nota2 = float(input())
+print ("Ingrese la nota 3:")
+nota3 = float(input())
+print ("Ingrese la nota 4:")
+nota4 = float(input())
+promedio = (nota1 + nota2 + nota3 + nota4) / 4
+print ("La definitiva es: ", str(promedio))
