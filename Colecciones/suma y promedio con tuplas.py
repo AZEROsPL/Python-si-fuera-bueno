@@ -1,0 +1,5 @@
+tupla = eval(input("Ingrese la tupla: "))
+suma = sum(tupla)
+promedio = suma / len(tupla)
+print("Suma = ", suma)
+print("Promedio = ", promedio)
